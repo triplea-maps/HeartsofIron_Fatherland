@@ -1,0 +1,8 @@
+England (1375,535)
+Eastern Germany  (1586,553)
+Moscow  (1941,461)
+Southern Japan  (3246,852)
+Northeastern United States (331,771)
+Italy (1545,700)
+New South Wales  (3347,1832)
+Eastern Canada  (394,559)

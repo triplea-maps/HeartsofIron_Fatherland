@@ -1,0 +1,4 @@
+map_name: HeartsofIron_Fatherland
+games:
+- {game_name: 'Hearts of Iron: Fatherland', file_name: HeartsofIron_Fatherland.xml}
+version: 0
